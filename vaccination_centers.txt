@@ -1,0 +1,2159 @@
+ 
+ centers: 
+ 
+ center_id: 603233
+ name: MMC Ulliyeri
+ address: UlliyeryModakkallur P OCalicut
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Ulliyeri CHC
+ pincode: 673323
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 16:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: a90389d0-d12e-478f-b894-0b41dec6edbf
+ date: 06-08-2021
+ available_capacity: 47
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-04:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 47
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 603202
+ name: Kmct Medical College Hospital
+ address: Kmct Medical College Hospital Manassery (Po)Mukkam (Via) Kozhikode (Dt )
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Mukkam CHC
+ pincode: 673602
+ lat: 11
+ long: 75
+ from: 10:00:00
+ to: 16:30:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 6185166a-984c-442c-97d5-4a0463e03537
+ date: 06-08-2021
+ available_capacity: 41
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 01:00PM-04:30PM
+ 
+ available_capacity_dose1: 1
+ available_capacity_dose2: 40
+ 
+ 
+ session_id: 25dbf74d-11f4-4680-a16a-837fafd10c56
+ date: 07-08-2021
+ available_capacity: 34
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 01:00PM-04:30PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 34
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145255
+ name: Nochad FHC
+ address: Nochad FHC  Nochad P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Perambra TH
+ pincode: 673525
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 18:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: bd972c1e-ff13-42ff-9378-3d07f424294c
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-06:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 610209
+ name: Govt.Medical College Kozhikode
+ address: Medical College PO Kozhikode Kerala
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673008
+ lat: 11
+ long: 75
+ from: 09:30:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 10b95771-a8f0-47ef-9841-ce5b63a3215f
+ date: 06-08-2021
+ available_capacity: 23
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:30AM-11:30AM
+ 11:30AM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 23
+ 
+ 
+ 
+ 
+ center_id: 144868
+ name: Irivallur PHC
+ address: Irivallur PHC Chelannur P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thalakulathur CHC
+ pincode: 673616
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: c4b923ba-ae4d-46fb-bc34-c8982eb58f3b
+ date: 06-08-2021
+ available_capacity: 1
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 1
+ 
+ 
+ 
+ 
+ center_id: 145451
+ name: Thiruvangoor CHC
+ address: Thiruvangoor CHC Thiruvangoor P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvangoor CHC
+ pincode: 673304
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 3c9dcb0e-26f8-44cd-bdbd-bf2713749fd6
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 603170
+ name: Iqraa International Hospital
+ address: Wayanad Road Malaparamba Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673009
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 16:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 18cc0055-c70e-465c-8fb1-7f89639f2f29
+ date: 06-08-2021
+ available_capacity: 169
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-04:00PM
+ 
+ available_capacity_dose1: 69
+ available_capacity_dose2: 100
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 144745
+ name: Chekkiad PHC
+ address: Chekkiad PHC Parakkadav P O Nadapuram
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Valayam CHC
+ pincode: 673509
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 66e0f249-ef40-4505-8a68-e71aefd552cf
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 602565
+ name: Baby Memorial Hospital
+ address: Arayidathupalam Kozhikode Kerala
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thalakulathur CHC
+ pincode: 673004
+ lat: 11
+ long: 75
+ from: 08:30:00
+ to: 18:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: da5be315-45c7-4ffd-84f0-ddc3cf8d4447
+ date: 06-08-2021
+ available_capacity: 2149
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 08:30AM-10:30AM
+ 10:30AM-12:30PM
+ 12:30PM-02:30PM
+ 02:30PM-06:00PM
+ 
+ available_capacity_dose1: 1958
+ available_capacity_dose2: 191
+ 
+ 
+ session_id: 13719315-c0fa-4b56-9623-86ef8ce35e27
+ date: 07-08-2021
+ available_capacity: 2820
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 08:30AM-10:30AM
+ 10:30AM-12:30PM
+ 12:30PM-02:30PM
+ 02:30PM-06:00PM
+ 
+ available_capacity_dose1: 2633
+ available_capacity_dose2: 187
+ 
+ 
+ session_id: d521852f-8cc1-41f7-89f6-dfdbb4e969b4
+ date: 08-08-2021
+ available_capacity: 2965
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 08:30AM-10:30AM
+ 10:30AM-12:30PM
+ 12:30PM-02:30PM
+ 02:30PM-06:00PM
+ 
+ available_capacity_dose1: 2776
+ available_capacity_dose2: 189
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145094
+ name: Kuttiyadi TH
+ address: Taluk Hospital Kuttiadi
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673508
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 70c8b847-d4b2-4893-abd3-7be14a49c286
+ date: 06-08-2021
+ available_capacity: 17
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 17
+ 
+ 
+ 
+ 
+ center_id: 144792
+ name: Choolur PHC
+ address: Choolur PHC Cheruvady Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvady CHC
+ pincode: 673601
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 732e5ee5-f8e3-46d4-9c08-4ad82831bfd1
+ date: 06-08-2021
+ available_capacity: 6
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 6
+ 
+ 
+ 
+ 
+ center_id: 144787
+ name: Cheruvannur Nallalam PHC
+ address: Cheruvannur Nallalam PHC Kolathara
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvannur CHC
+ pincode: 673655
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: a224ed88-d2b0-4988-a7fb-07f7478120fc
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145152
+ name: Manniyoor FHC
+ address: Manniyoor FHC Kunnathukara Muduvana
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvallur CHC
+ pincode: 673523
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: a2583dfb-5d02-4292-960b-f8f9debd06db
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 618285
+ name: PUTHALATH EYE HOSPITAL
+ address: Razeena ArcadeMini Byepass RoadKalluthankadavuPuthiyaraCalicut
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thalakulathur CHC
+ pincode: 673004
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 16:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: d5ef1995-23ab-4928-9fab-ca017855b2a8
+ date: 06-08-2021
+ available_capacity: 9
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-04:00PM
+ 
+ available_capacity_dose1: 1
+ available_capacity_dose2: 8
+ 
+ 
+ session_id: c2bb637b-5de6-4571-82dd-da64b9a86c12
+ date: 07-08-2021
+ available_capacity: 22
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-04:00PM
+ 
+ available_capacity_dose1: 22
+ available_capacity_dose2: 0
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145200
+ name: Mukkam CHC
+ address: Mukkom CHC Mukkam P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Mukkam CHC
+ pincode: 673602
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: f59ad380-88c3-4b07-8740-27061f686537
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145039
+ name: Kozhikode GH
+ address: Kozhikode GH Kozhikode Beach P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thalakulathur CHC
+ pincode: 673032
+ lat: 11
+ long: 75
+ from: 09:30:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 9b6ab4d7-5be8-414b-81d4-ef5928350c77
+ date: 06-08-2021
+ available_capacity: 39
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:30AM-11:30AM
+ 11:30AM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 39
+ 
+ 
+ 
+ 
+ center_id: 145530
+ name: Velom PHC
+ address: Velom PHC Velom Kurichakam P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673508
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 4f4733e0-446f-43d3-8f3a-3099b0b78561
+ date: 06-08-2021
+ available_capacity: 3
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 3
+ 
+ 
+ 
+ 
+ center_id: 145005
+ name: Koorachundu CHC
+ address: Koorachundu P.O Koorachundu
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Balussery TH
+ pincode: 673527
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: cc8b81c4-c9a6-4809-8c75-0e6be3e5cf9a
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 602880
+ name: Fathima Hospital
+ address: Bank Road Kozhikode Kerala
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673001
+ lat: 11
+ long: 75
+ from: 10:00:00
+ to: 15:30:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: d324319d-efde-462a-b2b8-c8899b85e97e
+ date: 06-08-2021
+ available_capacity: 20
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 01:00PM-03:30PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 20
+ 
+ 
+ session_id: 83a3c1ad-fb91-4c0d-86db-8b11667d80ae
+ date: 07-08-2021
+ available_capacity: 16
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:30AM-10:30AM
+ 10:30AM-11:30AM
+ 11:30AM-12:30PM
+ 12:30PM-03:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 16
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145167
+ name: Melady CHC
+ address: Melady CHC Thikkodi P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Melady CHC
+ pincode: 673529
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 11:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 37118b73-8f68-4531-b296-b13d0cb5b038
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 144935
+ name: Keezhariyur PHC
+ address: Keezhariyur PHC Keezhariyoor P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Melady CHC
+ pincode: 673307
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 11:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: d081ea9b-6b09-4a5a-ad2e-dc75fec8e212
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 806977
+ name: KMC Hospital Kuttiady
+ address: KMC HOSPITAL PEREMBRA ROAD KUTTIADY PO KOZHIKODE
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673508
+ lat: 11
+ long: 75
+ from: 10:00:00
+ to: 15:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 42b68d51-0bec-47f5-9b30-247791163727
+ date: 06-08-2021
+ available_capacity: 16
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 01:00PM-03:00PM
+ 
+ available_capacity_dose1: 1
+ available_capacity_dose2: 15
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145163
+ name: Maruthonkara FHC
+ address: Maruthomkara FHC Maruthomkara P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673513
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 3668b981-b2c1-466b-809e-02acbaf8b0f9
+ date: 06-08-2021
+ available_capacity: 9
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 9
+ 
+ 
+ 
+ 
+ center_id: 145368
+ name: Purameri PHC
+ address: Purameri FHC Arur P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673507
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 1c83605d-ca72-4a53-a104-17cb7941e997
+ date: 06-08-2021
+ available_capacity: 1
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 1
+ 
+ 
+ 
+ 
+ center_id: 145060
+ name: Kunduthodu PHC
+ address: Kunduthode PHC  Kunduthode P O Kuttiyadi
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673513
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 4d5b5e22-c9aa-456d-9fef-772ec29e9556
+ date: 06-08-2021
+ available_capacity: 9
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 9
+ 
+ 
+ 
+ 
+ center_id: 145308
+ name: Perambra TH
+ address: Perambra Kozhikode Kerala In
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Perambra TH
+ pincode: 673525
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: e12219a9-5764-46e3-b550-f8d61ef3343e
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 603097
+ name: Dr Ambadis Calicut Center
+ address: 7Th Floor Metromed International Cardiac Centre Thondayad Bypass Road Opposite Mahindra Trucks And Bus Palazhi
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673014
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 18:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 43dd6c90-171e-4200-94f4-70de7ebe36ab
+ date: 06-08-2021
+ available_capacity: 298
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-06:00PM
+ 
+ available_capacity_dose1: 278
+ available_capacity_dose2: 20
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145512
+ name: Vatakara FHC
+ address: Vatakara FHC Thazheangadi Vatakara Beach P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Vatakara Municipality
+ pincode: 673103
+ lat: 11
+ long: 75
+ from: 09:30:00
+ to: 13:30:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 48282847-b23d-41c2-8631-464a986f5e11
+ date: 06-08-2021
+ available_capacity: 23
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:30AM-10:30AM
+ 10:30AM-11:30AM
+ 11:30AM-12:30PM
+ 12:30PM-01:30PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 23
+ 
+ 
+ 
+ 
+ center_id: 144726
+ name: Changaroth FHC
+ address: Changaroth FHC Perambra Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Perambra TH
+ pincode: 673525
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: de5acbae-3347-4de2-b094-062d86b61685
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145079
+ name: Kunnummal CHC
+ address: Kunnummal CHC Kakkattil P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673507
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: b90c86a9-1e7b-49d9-916f-d8e25bd59e67
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145297
+ name: Panangad FHC
+ address: Panangad FHC Kannadipoil Panangad P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Balussery TH
+ pincode: 673612
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: b4fce8f6-d95e-47b2-9abe-7dd9a658b512
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 144806
+ name: Chorode FHC
+ address: Chorode FHC Chorode East Po
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Orkkattery CHC
+ pincode: 673106
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 9229c373-7162-4b2a-b659-e19701eace60
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 812795
+ name: Speciality Polyclinic
+ address: Near Koyilandy Muncipal Office Next To Toll Booth Koyilandy Kerala 673305
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvangoor CHC
+ pincode: 673305
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 18:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: e0483d40-3268-48ec-9f3e-e90276cc25e4
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-06:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 144969
+ name: Kodiyathur FHC
+ address: Kodiyathur FHC Kodiyathur P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvady CHC
+ pincode: 673602
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 10401629-3337-4265-aa73-4178ba76ea04
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145215
+ name: Nadapuram TH
+ address: Nadapuram T H Nadapuram P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673504
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 8a6fc4a6-6a29-4752-a855-62533daff227
+ date: 06-08-2021
+ available_capacity: 22
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 22
+ 
+ 
+ 
+ 
+ center_id: 145413
+ name: Thalakulathur CHC
+ address: Thalakulathur CHC Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thalakulathur CHC
+ pincode: 673317
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: e60b634a-2e15-4c41-a6a3-a028dad5857e
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 633177
+ name: CEE YAM HOSPITAL PVT LTD
+ address: V O ROAD VATAKARAKOZHIJODE KERALA
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Vatakara Municipality
+ pincode: 673101
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 18:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 8fdb6cfc-ef6a-4648-9094-853a79a1d4b4
+ date: 06-08-2021
+ available_capacity: 7
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-06:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 7
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 144688
+ name: Ayancheri FHC
+ address: Ayancheri FHC Kadameri P O Thiruvallur
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvallur CHC
+ pincode: 673542
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: dbb699c6-e14f-46b2-b2f2-1d0d93096801
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145500
+ name: Vanimel FHC
+ address: Vanimel FHC Kodiyoora P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Valayam CHC
+ pincode: 673506
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: ef2a4ad8-4573-470e-8b9b-f5e3317dbdc5
+ date: 06-08-2021
+ available_capacity: 63
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 63
+ 
+ 
+ 
+ 
+ center_id: 144920
+ name: Kayakodi FHC
+ address: Kayakodi FHC Kayakodi Kittiyadi
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673508
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 87cdb63d-eecb-4b97-bfcc-80bbfd4cd4e5
+ date: 06-08-2021
+ available_capacity: 10
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 10
+ 
+ 
+ 
+ 
+ center_id: 631826
+ name: VIMS Care And Cure Hospital
+ address: Pipeline RoadKallachi (po) Vadakara Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kuttiyadi TH
+ pincode: 673506
+ lat: 11
+ long: 75
+ from: 13:00:00
+ to: 19:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: a29a95f3-b819-415e-a80a-119b1392e148
+ date: 06-08-2021
+ available_capacity: 10
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 01:00PM-02:00PM
+ 02:00PM-03:00PM
+ 03:00PM-04:00PM
+ 04:00PM-07:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 10
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145236
+ name: Narikkuni CHC
+ address: Nrikkuni Narikkuni P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Narikkuni CHC
+ pincode: 673585
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 5ce3d948-1cfa-470c-91a4-7cc3fd211b29
+ date: 06-08-2021
+ available_capacity: 1
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 1
+ 
+ 
+ 
+ 
+ center_id: 580114
+ name: Starcare Hospital Kozhikode
+ address: Nellikode Post Thondayad Kozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673007
+ lat: 11
+ long: 75
+ from: 08:00:00
+ to: 16:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: b4a8e36a-790c-43dc-9590-91c17ada810b
+ date: 06-08-2021
+ available_capacity: 42
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 08:00AM-10:00AM
+ 10:00AM-12:00PM
+ 12:00PM-02:00PM
+ 02:00PM-04:00PM
+ 
+ available_capacity_dose1: 17
+ available_capacity_dose2: 25
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 144845
+ name: Feroke TH
+ address: Feroke TH Petta Feroke
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Olavanna CHC
+ pincode: 673631
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: e5c0acff-a814-4601-be8b-c1abab56bf52
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145070
+ name: Kunnamangalam FHC
+ address: Kunnamangalam FHC Anappara Kunnamangalam P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvady CHC
+ pincode: 673571
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 4f9e87a6-31bc-4ede-8588-e6e62b8c90bf
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145268
+ name: Olavanna CHC
+ address: Olavanna CHC Pantheerankav P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Olavanna CHC
+ pincode: 673019
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: ad9c8ab7-aebf-4d97-a5c6-88e4e830184e
+ date: 06-08-2021
+ available_capacity: 13
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 13
+ 
+ 
+ 
+ 
+ center_id: 145226
+ name: Naduvannur FHC
+ address: Naduvannur FHC Kavil Naduvannur P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Ulliyeri CHC
+ pincode: 673614
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 97c9828f-60c4-4d6b-8e94-e5ccfaf9a8a0
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 144778
+ name: Cheruvady CHC
+ address: Cheruvady CHC Cheruvady P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvady CHC
+ pincode: 673661
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 2d0b916f-a375-4ab0-a120-8f8b3fa821f3
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 144759
+ name: Chengottukavu PHC
+ address: Chengottukav PHC Edakkulam Thiruvangoor
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvangoor CHC
+ pincode: 673306
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: aac243f0-ac4a-44e9-802d-4f2316857a73
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 811927
+ name: ECHS Poly Clinic Kozhikode
+ address: Kannur Rd West Hill Kozhikode Kerala 673005
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673005
+ lat: 11
+ long: 75
+ from: 10:00:00
+ to: 15:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: c6635e14-c219-4e2b-a68f-58ad417ddbff
+ date: 06-08-2021
+ available_capacity: 6
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 01:00PM-03:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 6
+ 
+ 
+ 
+ 
+ center_id: 145425
+ name: Thiruvallur CHC
+ address: Thiruvallur CHC Thiruvallur P.O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Thiruvallur CHC
+ pincode: 673541
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: d4499dd2-de3e-4f1d-9bfc-4cd692000fec
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145324
+ name: Perumanna FHC
+ address: Perumanna FHC Kottayithazham Perumanna
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: MCH Unit Cherupa
+ pincode: 673019
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 899b7919-288e-4057-ae28-a43492c99121
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 145504
+ name: Vatakara DH
+ address: PP Unit Vattakara DH Vatakara
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Vatakara Municipality
+ pincode: 673101
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: f69a60fb-f0e6-4320-858c-415ce734add3
+ date: 06-08-2021
+ available_capacity: 45
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 45
+ 
+ 
+ 
+ 
+ center_id: 545411
+ name: Ulliyeri CHC
+ address: Ulliyeri CHC Mampoyil Ulliyeri P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Ulliyeri CHC
+ pincode: 673323
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 2f3bdd71-70b4-4032-b667-3e58da6d53c0
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 582062
+ name: CRADLE CALICUT
+ address: NH17 BYPASS ROAD CALICUT
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Kozhikode Corporation
+ pincode: 673014
+ lat: 11
+ long: 75
+ from: 10:00:00
+ to: 12:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: f65fd648-aa1f-461d-8f51-286b92ba1719
+ date: 06-08-2021
+ available_capacity: 15
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 10:00AM-12:00PM
+ 
+ available_capacity_dose1: 2
+ available_capacity_dose2: 13
+ 
+ 
+ session_id: 7ce0fead-b7e8-4985-8c9c-a88c30366047
+ date: 08-08-2021
+ available_capacity: 1282
+ min_age_limit: 18
+ max_age_limit: 44
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:30AM-11:30AM
+ 11:30AM-01:00PM
+ 
+ available_capacity_dose1: 1185
+ available_capacity_dose2: 97
+ 
+ 
+ session_id: aee0320f-c577-4f11-a504-65f9afc92d34
+ date: 08-08-2021
+ available_capacity: 467
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 01:30PM-03:30PM
+ 03:30PM-04:30PM
+ 
+ available_capacity_dose1: 358
+ available_capacity_dose2: 109
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145469
+ name: Thuneri PHC
+ address: Thuneri P O Nadapuram Via Near Thuneri Town
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Valayam CHC
+ pincode: 673505
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 14:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 9a73e77d-a806-498e-bfc5-f72f6003b625
+ date: 06-08-2021
+ available_capacity: 178
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-02:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 178
+ 
+ 
+ 
+ 
+ center_id: 144766
+ name: Cherupa PHC
+ address: Cherupa PHC Cherupa Peruvayal P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: MCH Unit Cherupa
+ pincode: 673661
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 220e2d62-eadf-40a5-86d3-e905956877be
+ date: 06-08-2021
+ available_capacity: 1
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 1
+ 
+ 
+ 
+ 
+ center_id: 144711
+ name: Balussery TH
+ address: Koyilandy Thaluk Kozhikode Kerala In
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Balussery TH
+ pincode: 673612
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 8620f864-48fb-4f39-bce3-529e3b9cc1dd
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 144970
+ name: Koduvally CHC
+ address: Koduvally CHC Koduvally
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Narikkuni CHC
+ pincode: 673572
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 2cb99d6b-a69e-49dc-acb8-b9477c3d29ec
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 719637
+ name: MVR Cancer Center
+ address: PoolacodeKozhikode
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Cheruvady CHC
+ pincode: 673601
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 16:00:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 22e710ef-dd6a-440d-827d-196fe0c24e2c
+ date: 06-08-2021
+ available_capacity: 10
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-04:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 10
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ center_id: 145085
+ name: Kuruvattoor PHC
+ address: Kuruvattoor PHC Kuruvattoor P O
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Mukkam CHC
+ pincode: 673011
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 13:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: ee5eb716-ac9b-4036-9ac5-39966882e2f7
+ date: 06-08-2021
+ available_capacity: 3
+ min_age_limit: 45
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-10:00AM
+ 10:00AM-11:00AM
+ 11:00AM-12:00PM
+ 12:00PM-01:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 3
+ 
+ 
+ 
+ 
+ center_id: 144929
+ name: Kayanna FHC
+ address: Kayanna FHC Mattanode Kayannan
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Ulliyeri CHC
+ pincode: 673527
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 12:00:00
+ fee_type: Free
+ sessions: 
+ 
+ session_id: 6cb6c883-d877-470c-89f1-39063258439b
+ date: 06-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ allow_all_age: true
+ vaccine: COVAXIN
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-12:00PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ 
+ 
+ center_id: 673325
+ name: SUPER CLINIC AND PHARMACY
+ address: SUPER CLINIC AND PHARMACY OPPOSITE PERUMA AUDITORIUM IPC ROAD PAYYOLI.
+ state_name: Kerala
+ district_name: Kozhikode
+ block_name: Melady CHC
+ pincode: 673522
+ lat: 11
+ long: 75
+ from: 09:00:00
+ to: 17:30:00
+ fee_type: Paid
+ sessions: 
+ 
+ session_id: 9bba00ae-3dbd-4422-801c-923998de1993
+ date: 12-08-2021
+ available_capacity: 0
+ min_age_limit: 18
+ max_age_limit: 44
+ allow_all_age: false
+ vaccine: COVISHIELD
+ slots: 
+ 09:00AM-11:00AM
+ 11:00AM-01:00PM
+ 01:00PM-03:00PM
+ 03:00PM-05:30PM
+ 
+ available_capacity_dose1: 0
+ available_capacity_dose2: 0
+ 
+ 
+ vaccine_fees: 
+ 
+ vaccine: COVISHIELD
+ fee: 780
+ 
+ 
+ 
+ 
+ 
