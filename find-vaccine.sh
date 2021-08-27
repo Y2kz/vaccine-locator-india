@@ -1,3 +1,4 @@
+#!/bin/bash
 #echo"Enter District code:"
 read -p "Enter District code: " district_code
 
@@ -13,6 +14,7 @@ curl -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 F
 cat temp_data |jq . > result.txt && echo "File saved as result.txt"
 cat result.txt | sed 's_[][,{}"]__g'| sed 's_^[ \t]*_ _g' |tee vaccination_centers.txt
 rm temp_data result.txt
+cat vaccination_centers.txt | less
 #while [ 1 ]
 
 #read vacc center
